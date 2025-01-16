@@ -1,0 +1,10 @@
+Elma,Meyve,7.45,80
+Ekmek,Fırın,2.50,40
+Süt,Süt Ürünleri,18.30,35
+Tavuk Göğsü,Et,60.75,20
+Makarna,Bakliyat,12.90,50
+Peynir,Süt Ürünleri,45.00,25
+Şampuan,Kişisel Bakım,35.99,15
+Domates,Sebze,6.50,90
+Kağıt Havlu,Temizlik,25.00,12
+Çikolata,Atıştırmalık,20.00,40
